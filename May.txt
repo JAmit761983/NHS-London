@@ -1,0 +1,272 @@
+    1  node -v
+    2  ng serve -o
+    3  npm i
+    4  ng serve -o
+    5  ng serve 
+    6  ng serve 
+    7  ng serve
+    8  ng serve
+    9  npm link @angular/cli
+   10  ng serve
+   11  ng serve
+   12  npm install -g @angular/cli
+   13  npm i
+   14  npm i
+   15  npm i
+   16  npm update
+   17  npm install -g @angular/cli
+   18  ng serve
+   19  npm install --global --production windows-build-tools
+   20  ng serve
+   21  ng serve -o
+   22  npm install - g @angular/cli
+   23  ng serve -o
+   24  ng serve -o
+   25  ng serve -o
+   26  ng serve -o
+   27  ng serve -o
+   28  exit
+   29  npm uninstall -g @angular/cli
+   30  ng serve -o
+   31  ng serve
+   32  npm version
+   33  ng serve -o
+   34  exit
+   35  ng serve -o
+   36  exit
+   37  ng serve -o
+   38  exit
+   39  ng serve -o
+   40  exit
+   41  ng serve -o
+   42  exit
+   43  ng serve -o
+   44  exit
+   45  ng serve -o
+   46  exit
+   47  ng serve -o
+   48  exit
+   49  ng serve -o
+   50  exit
+   51  ng serve -o
+   52  exit
+   53  ng serve -o
+   54  exit
+   55  ng serve -0
+   56  exit
+   57  ng serve -0
+   58  exit
+   59  ng serve -o
+   60  ng serve -0
+   61  ng serve -o
+   62  ng serve -o
+   63  npm install
+   64  ng serve -o
+   65  exit
+   66  ng serve -o
+   67  exit
+   68  ng serve -o
+   69  ng serve -o
+   70  exit
+   71  npm init
+   72  ng serve -o
+   73  exit
+   74  ng serve -o
+   75  exit
+   76  ng serve -o
+   77  exit
+   78  ng serve -o
+   79  exit
+   80  ng serve -o
+   81  exit
+   82  ng serve -o
+   83  exit
+   84  ng serve -o
+   85  exit
+   86  ng serve -o
+   87  exit
+   88  ng serve -o
+   89  exit
+   90  ng serve -0
+   91  ng serve -o
+   92  exit
+   93  ng serve -o
+   94  exit
+   95  -npm update
+   96  npm update
+   97  sudo apt get update
+   98  -sudo apt get update
+   99  git-version
+  100  git -version
+  101  git --version
+  102  sudo apt-get update
+  103  git clone 
+  104  git clone https://github.com/yashhgaikwad/advTopicInSoftwareEngineering.git
+  105  cd advTopicInSoftwareEngineering/
+  106  clear
+  107  git status
+  108  git clone https://github.com/joeyAPS/car-parking-managemnet-.git
+  109  code .
+  110  code .
+  111  ls
+  112  clea
+  113  clear
+  114  ls -a
+  115  git config --list
+  116  yashh@DESKTOP-6VNB7I1 MINGW64 ~/Desktop
+  117  $ ls -a
+  118   ./
+  119   ../
+  120  '~$I Group Task.docx'
+  121  '~$re-cas.docx'
+  122   µTorrent.lnk*
+  123   21504494_LPD_Assignment.pdf
+  124  '7BUIS014W.2_Group 4_Eagle and The Dragon.pptx'
+  125   A_Framework_For_Transitioning_Of_Traditional_Software_Development_Method_To_Distributed_Agile_Software_Development.pdf
+  126   aayush/
+  127   account-statement_2021-10-01_2022-03-31_en-gb_d8b220.pdf
+  128  'ADv Tax 21-22 damodar gaikwad.pdf'
+  129  'Adv. Sw Engg.pdf'
+  130   Android/
+  131   Angular-5-CRUD-With-Firebase/
+  132   Angular-5-CRUD-With-Firebase.rar
+  133   BlueJeans.lnk*
+  134   CarPlateProgram/
+  135  'Change of Secretary.pdf'
+  136  'CS16Launcher - Shortcut.lnk'*
+  137   data/
+  138  'Dayabhai Resignation. .pdf'
+  139   desktop.ini
+  140  'DO NOT TOUCH'/
+  141  'GitHub Desktop.lnk'*
+  142   Grammarly.lnk*
+  143  'Introduction to Business Management.pdf'
+  144  'Mitigation Form 2021-22 (1).docx'
+  145   MongoDBCompass.lnk*
+  146  'Name Transfer.docx'
+  147  'NI number application.pdf'
+  148  'NIMESH KACHA_Retail CV 14102021.docx'
+  149  'OP6T invoice.pdf'
+  150   OP6T.pdf
+  151   Priya/
+  152  'Priya Sukhia UK Resume.docx'
+  153  'Shaiya US.lnk'*
+  154   Sign.pdf
+  155   task3.pdf
+  156  'This PC - Shortcut.lnk'*
+  157  'version 3'/
+  158  'Yashh CV.docx'
+  159  'Yashodhan Suspense.xlsx'
+  160  yashh@DESKTOP-6VNB7I1 MINGW64 ~/Desktop
+  161  $ git config --list
+  162  diff.astextplain.textconv=astextplain
+  163  filter.lfs.clean=git-lfs clean -- %f
+  164  filter.lfs.smudge=git-lfs smudge -- %f
+  165  filter.lfs.process=git-lfs filter-process
+  166  filter.lfs.required=true
+  167  http.sslbackend=openssl
+  168  http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+  169  core.autocrlf=true
+  170  core.fscache=true
+  171  core.symlinks=false
+  172  pull.rebase=false
+  173  credential.helper=manager
+  174  core.editor="C:\Users\yashh\AppData\Local\Programs\Microsoft VS Code\Code.exe" --wait
+  175  filter.lfs.clean=git-lfs clean -- %f
+  176  filter.lfs.smudge=git-lfs smudge -- %f
+  177  filter.lfs.process=git-lfs filter-process
+  178  filter.lfs.required=true
+  179  user.name=yashhgaikwad
+  180  user.email=102968857+yashhgaikwad@users.noreply.github.com
+  181  yashh@DESKTOP-6VNB7I1 MINGW64 ~/Desktop
+  182  $
+  183  lear
+  184  clear
+  185  vi ~/.gitconfig
+  186  mkdir devworkshop
+  187  cd devworkshop/
+  188  git clone https://github.com/yashhgaikwad/DevOps.git
+  189  ls
+  190  cd DevOps/
+  191  ls
+  192  clear
+  193  git branch
+  194  git config
+  195  vi ~/.gitconfig
+  196  clear
+  197  git status
+  198  nano README.md 
+  199  git status
+  200  git add.
+  201  git add .
+  202  clear
+  203  git commit -m "First Commit"
+  204  git status
+  205  clear
+  206  git config --global user.name
+  207  clear
+  208  ls -a
+  209  ls -la
+  210  ls
+  211  clear
+  212  git config --global user.name "yashhgaikwad"
+  213  sudo git config --global user.name "yashhgaikwad"
+  214  git config --global user.name "yashhgaikwad"
+  215  clear
+  216  pid
+  217  kill pidof 1824
+  218  ls
+  219  git clone https://github.com/JAmit761983/NHS-London.git
+  220  ls
+  221  clear
+  222  ls
+  223  cd Day\ 1/
+  224  ls
+  225  clear
+  226  git checkout -b feature/yash
+  227  ls 
+  228  cd NHS-London/
+  229  git checkout -b feature/yash
+  230  ls
+  231  cat README.md 
+  232  cat > README.md 
+  233  cat README.md 
+  234  git add .
+  235  git commit -m "Updating README file "
+  236  git push
+  237  git push --set-upstream origin feature/yash
+  238  git push
+  239  git branch -d feature/yash
+  240  ls
+  241  git branch -D feature/yash
+  242  cat README.md 
+  243  git branch --delete feature/yash
+  244  ls
+  245  clear
+  246  cd ..
+  247  ls
+  248  cd NHS-London/
+  249  cd ..
+  250  ls
+  251  ls
+  252  git clone https://github.com/JAmit761983/NHS-London.git
+  253  ls
+  254* 
+  255  git push
+  256  histort
+  257  history
+  258  git checkout -b feature/yash
+  259  ls
+  260  nano README.md 
+  261  cat README.md 
+  262  git status
+  263  git add.
+  264  git add .
+  265  git commit -m "Updated by Yash" 
+  266  git push
+  267  git push --set-upstream origin feature/yash
+  268  git push
+  269  git status
+  270  history
+  271  history > 17th May.txt
+  272  history > May.txt
