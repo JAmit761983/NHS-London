@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 First File has been created 
 
 This is update by feature/ITP-D1
+=======
+First File has been created
+
+Second File has been created by ITP-D2
+ 
+>>>>>>> 6c6847f (Update data.txt)
